@@ -24,4 +24,4 @@ To view or edit the project locally:
 
 Clone the repository:
 
- git clone https://github.com/your-username/colored-markers.git
+ > git clone https://github.com/your-username/Colored-Markers.git
